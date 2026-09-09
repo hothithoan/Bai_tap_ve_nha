@@ -1,0 +1,31 @@
+.hearder{
+    background-color: hwb(222 17% 20%);
+    font-weight: bold;
+}
+table{
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;    
+    height: 100px;
+}
+h3{
+    color: hwb(222 17% 20%);
+    font-size:25px;
+}
+tr{
+    background-color: hwb(0 79% 18%);
+    font-size: 14px;
+}
+.row1:hover{
+    background-color: oklab(47.081% 0.07995 -0.21073);
+}
+.row2:hover{
+    background-color: oklab(77.649% -0.1186 0.1489);
+}
+.row3:hover{
+    background-color: lch(49.22% 67.32 41.47);
+}
+.row4:hover{
+    background-color: oklab(76.871% -0.00822 0.15564);
+}
